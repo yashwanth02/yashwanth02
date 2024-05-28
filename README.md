@@ -76,3 +76,4 @@ I am a recent B.Tech graduate in Computer Science from Gitam University, Visakha
 - SQL (Hacker Rank)
 - Database Management Essentials (University of Colorado System/Coursera)
 - Google IT Support
+- Generative AI at Sap
