@@ -2,10 +2,15 @@
 
 👨🏻‍💻 **About Me**
 💡 I like to explore new technologies and develop software solutions and quick hacks.
+
 👨‍💻 Ex-Web Developer Intern at Phoenix Global Trade Solutions, Ex-Design team Lead of IEEE at Gitam University.
+
 🎓 Bachelor of Technology in Computer Science from Gitam University 2023.
+
 🌱 Learning about Systems Design, and Microservice Architecture.
+
 💬 Feel free to reach out to me for some interesting discussion related to technology.
+
 ✉️ You can shoot me an Email. I'll try to respond as soon as I can!
 
 ## 🛠 Languages and Tools
