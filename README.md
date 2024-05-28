@@ -1,11 +1,15 @@
-<div style="text-align:center; font-family:Papyrus;">
-    <h1>👋 Hola! I'm Venkata Yashwanth Dasari 👋</h1>
+<div style="text-align:center; font-size:20px;  font-family:Papyrus;">
+    <h1>👋 Hello! I'm Venkata Yashwanth Dasari 👋</h1>
     <div style="text-align:center;">
         <img src="Images/giphy1.gif" alt="GIF" width="900"/>
     </div>
 </div>
 
-👨🏻‍💻 **About Me**
+<div style="font-size:200px;">
+    👨🏻‍💻**About Me**
+</div>
+
+
 💡 I like to explore new technologies and develop software solutions and quick hacks.
 
 👨‍💻 Ex-Web Developer Intern at Phoenix Global Trade Solutions, Ex-Design team Lead of IEEE at Gitam University.
