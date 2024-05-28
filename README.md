@@ -5,8 +5,7 @@
 Highly motivated computer science student seeking a career in a reputable organization to learn, grow, and contribute to success.
 
 **LinkedIn:** [Venkata Yashwanth Dasari](https://www.linkedin.com/in/venkata-yashwanth-dasari)  
-**Email:** yashwanthdasari02@gmail.com  
-**Phone:** +919347080833  
+**Email:** yashwanthdasari02@gmail.com 
 
 ## About Me
 
