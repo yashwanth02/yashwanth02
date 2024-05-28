@@ -1,4 +1,7 @@
-# Hola! 👋, I'm Venkata Yashwanth Dasari
+<div style="text-align:center; font-family:Papyrus;">
+    <h1>👋 Hola! I'm Venkata Yashwanth Dasari 👋</h1>
+    <img src="Images/.gif" alt="GIF" height="800" width="1000"/>
+</div>
 
 👨🏻‍💻 **About Me**
 💡 I like to explore new technologies and develop software solutions and quick hacks.
@@ -20,7 +23,7 @@
 **TOOLS:** MS Office, MS Word, MS Excel, Canva, Photoshop  
 
 ## Connect with Me:
-- [Venkata Yashwanth Dasari](https://www.linkedin.com/in/venkata-yashwanth-dasari)
+- [LinkedIn](https://www.linkedin.com/in/venkata-yashwanth-dasari)
 - [yashwanthdasari02@gmail.com](mailto:yashwanthdasari02@gmail.com)
 
 ## ⚙️ GitHub Analytics
