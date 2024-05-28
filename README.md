@@ -27,6 +27,10 @@
 ## ⚙️ GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanth02&show_icons=true&theme=radical)
 
+## Most Used Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanth02&layout=compact)](https://github.com/yashwanth02)
+
+
 ## 🤝🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/venkata-yashwanth-dasari)
 - [yashwanthdasari02@gmail.com](mailto:yashwanthdasari02@gmail.com)
