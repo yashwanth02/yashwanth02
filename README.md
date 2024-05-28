@@ -1,6 +1,8 @@
 <div style="text-align:center; font-family:Papyrus;">
     <h1>👋 Hola! I'm Venkata Yashwanth Dasari 👋</h1>
-    <img src="Images/.gif" alt="GIF" height="800" width="1000"/>
+    <div style="text-align:center;">
+        <img src="Images/giphy1.gif" alt="GIF" width="900"/>
+    </div>
 </div>
 
 👨🏻‍💻 **About Me**
@@ -22,12 +24,9 @@
 **DATABASE:** DBMS, SQL  
 **TOOLS:** MS Office, MS Word, MS Excel, Canva, Photoshop  
 
-## Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/venkata-yashwanth-dasari)
-- [yashwanthdasari02@gmail.com](mailto:yashwanthdasari02@gmail.com)
-
 ## ⚙️ GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanth02&show_icons=true&theme=radical)
 
 ## 🤝🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/venkata-yashwanth-dasari)
+- [yashwanthdasari02@gmail.com](mailto:yashwanthdasari02@gmail.com)
