@@ -23,8 +23,11 @@
 ✉️ You can shoot me an Email. I'll try to respond as soon as I can!
 
 ## 🛠 Languages and Tools
-**GENERAL PROFICIENCY:** Python, Java  
-**WEB TECHNOLOGIES:** HTML, CSS, JavaScript  
+![Python](https://img.shields.io/badge/-Python-%2320232a?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-%2320232a?style=for-the-badge&logo=MySQL&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%2320232a?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-%2320232a?style=for-the-badge&logo=css3)
 **DATABASE:** DBMS, SQL  
 **TOOLS:** MS Office, MS Word, MS Excel, Canva, Photoshop  
 
